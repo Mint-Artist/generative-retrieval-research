@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "verified_on": "2026-11-07",
+  "scope": "Public paper metadata and original reading navigation; no full-text papers or translations are included.",
+  "papers": [
+    {
+      "short_name": "GENRE",
+      "title": "Autoregressive Entity Retrieval",
+      "arxiv_version": "2010.00904v3",
+      "url": "https://arxiv.org/abs/2010.00904v3",
+      "license": "arXiv non-exclusive distribution license",
+      "license_url": "https://arxiv.org/licenses/nonexclusive-distrib/1.0/license.html"
+    },
+    {
+      "short_name": "OneRec",
+      "title": "OneRec: Unifying Retrieve and Rank with Generative Recommender and Iterative Preference Alignment",
+      "arxiv_version": "2502.18965v1",
+      "url": "https://arxiv.org/abs/2502.18965v1",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "short_name": "OneSearch",
+      "title": "OneSearch: A Preliminary Exploration of the Unified End-to-End Generative Framework for E-commerce Search",
+      "arxiv_version": "2509.03236v5",
+      "url": "https://arxiv.org/abs/2509.03236v5",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "short_name": "PLUM",
+      "title": "PLUM: Adapting Pre-trained Language Models for Industrial-scale Generative Recommendations",
+      "arxiv_version": "2510.07784v1",
+      "url": "https://arxiv.org/abs/2510.07784v1",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "short_name": "GBS",
+      "title": "Generative Retrieval for Book search",
+      "arxiv_version": "2501.11034v1",
+      "url": "https://arxiv.org/abs/2501.11034v1",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "short_name": "ICEGR",
+      "title": "ICEGR: An Intent-Coherent End-to-End Generative Retrieval Framework for E-commerce Search",
+      "arxiv_version": "2608.29652v3",
+      "url": "https://arxiv.org/abs/2608.29652v3",
+      "license": "CC BY-NC-ND 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+    },
+    {
+      "short_name": "UniGD",
+      "title": "UniGD: A Unified Generative-Discriminative Framework for Industrial Retrieval",
+      "arxiv_version": "2608.03150v1",
+      "url": "https://arxiv.org/abs/2608.03150v1",
+      "license": "arXiv non-exclusive distribution license",
+      "license_url": "https://arxiv.org/licenses/nonexclusive-distrib/1.0/license.html"
+    },
+    {
+      "short_name": "TSGR",
+      "title": "TSGR: Taobao Search Generative Retrieval",
+      "arxiv_version": "2607.18796v2",
+      "url": "https://arxiv.org/abs/2607.18796v2",
+      "license": "arXiv non-exclusive distribution license",
+      "license_url": "https://arxiv.org/licenses/nonexclusive-distrib/1.0/license.html"
+    },
+    {
+      "short_name": "DOME",
+      "title": "Model Editing for New Document Integration in Generative Information Retrieval",
+      "arxiv_version": "2603.02773v2",
+      "url": "https://arxiv.org/abs/2603.02773v2",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ]
+}
